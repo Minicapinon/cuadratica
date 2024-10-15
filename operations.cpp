@@ -1,8 +1,11 @@
+/*
+    Este archivo solo se utiliza para realizar operaciones
+    usando funciones para calcular el valor de "X1" y "X2"
+*/
 #ifndef OPERATIONS
 
 #include <cmath>
 
-//Funcion solo para X1
 double cuadx1(double a, double b, double c)
 {
     double x1 = 0;
@@ -14,7 +17,6 @@ double cuadx1(double a, double b, double c)
     return x1;
 }
 
-//Funcion solo para X2
 double cuadx2(double a, double b, double c)
 {
     double x2 = 0;
